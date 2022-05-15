@@ -1,4 +1,4 @@
-# -Lalibela-3D-model-computer-graphics
+# -Rendering-3D-model-of-Rock-Hewn-church-of-lalibela-_GRAPHICS
 This project is aimed to render 3D model of church of Lalibela using OpenGL with python.
 
 Collaborators:
