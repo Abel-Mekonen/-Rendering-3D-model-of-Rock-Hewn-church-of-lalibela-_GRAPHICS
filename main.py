@@ -10,9 +10,6 @@ import glm as glm
 from obj_loader import Loader
 
 
-
-
-
 class glapp:
 
     def __init__(self):
