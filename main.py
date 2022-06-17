@@ -74,7 +74,7 @@ class glapp:
         # Generate texture buffers and binding the buffer
         self.texture = glGenTextures(4)
         self.bindBuffer("images/grouned_baked.png" , 0)
-        self.bindBuffer("images/abel_lalibela_baked.png" , 1)
+        self.bindBuffer("images/lalibela_baked.png" , 1)
         self.bindBuffer("images/green.jpg" , 2)
        
         
