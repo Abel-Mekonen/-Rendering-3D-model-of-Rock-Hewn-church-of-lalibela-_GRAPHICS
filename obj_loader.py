@@ -8,7 +8,7 @@ class Loader:
         self.verticeFinal = []
     
         while True:
-            line = self.OBJ.readline()
+            line = self.OBJ.readline(5_000_000)
             if not line:
                 break
             line = line.split()
